@@ -6,7 +6,7 @@
 
 ## Simple Summary
 
-A standard that extends the basic attributes from the existing low level NFT protocols ([ERC-721](https://eips.ethereum.org/EIPS/eip-721)/[ERC-1155](https://eips.ethereum.org/EIPS/eip-1155)). Establishes **standardized organic classes of fully featured NTFs that can be further modified and supported by the entire community**, also introduce the **Manufacturer/Brand** entity to leverage real world assets tokenization. NFTs with high level features that agree on a unique standard enables interactivity and portability throughout the entire ecosystem. It is important to notice that **the Standard puts NO LIMIT ON CUSTOMIZATION**
+A standard that extends the basic attributes from the existing low level NFT protocols ([ERC-721](https://eips.ethereum.org/EIPS/eip-721)/[ERC-1155](https://eips.ethereum.org/EIPS/eip-1155)). Establishes **standardized organic classes of fully featured NTFs that can be further modified and supported by the entire community**, also introduce the **Manufacturer/Brand** entity to leverage real world assets tokenization. NFTs with high level features that agree on a unique standard enables interactivity and portability throughout the entire Web3 ecosystem. It is important to notice that **the Standard puts NO LIMIT ON CUSTOMIZATION**
 
 ## Abstract
 
