@@ -28,6 +28,6 @@ While this is great, at some point **plain protocols start hurting a whole lot m
 
 **Given this reality dApps become a falacy**.
 
-So to unleash the full power carried by the core concept within NFTs we extended those low level protocol into a higher level one, that would allow more meaningful attributes, while keeping portability. We named those powerful and portable assets, **Unified Token Assets** or just **UniTAs**
+So to unleash the full power of NFTs, we extended those low level protocols into a higher level one, that would allow more meaningful attributes, while keeping portability. We named those powerful and portable assets, **Unified Token Assets** or just **UniTAs**
 
 ---
