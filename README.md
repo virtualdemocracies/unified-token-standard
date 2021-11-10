@@ -14,7 +14,7 @@ The main contributions are:
 
 1. **Standardized, community based, organic classes of fully featured NTFs with verifiable provenance**.
 
-1. **Manufacturer/Brand** entity to leverage real world assets tokenization.
+1. **Manufacturer/Brand** entity as exclusive creator and provenance authority over all the tokenized assets under its brand.
 
 ## Abstract
 
