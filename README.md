@@ -6,11 +6,19 @@
 
 ## Simple Summary
 
-A standard that extends the basic attributes from the existing low level NFT protocols ([ERC-721](https://eips.ethereum.org/EIPS/eip-721)/[ERC-1155](https://eips.ethereum.org/EIPS/eip-1155)). Establishes **standardized organic classes of fully featured NTFs that can be further modified and supported by the entire community**, also introduce the **Manufacturer/Brand** entity to leverage real world assets tokenization. NFTs with high level features that agree on a unique standard enables interactivity and portability of complex classes of NFTs throughout the entire Web3 ecosystem. It is important to notice that **the Standard puts no limit on customization**
+A standard that extends the basic attributes from the existing low level NFT protocols ([ERC-721](https://eips.ethereum.org/EIPS/eip-721)/[ERC-1155](https://eips.ethereum.org/EIPS/eip-1155)). It Establishes:
+
+1. **Community based, standardized organic classes of fully featured NTFs with verifiable provenance**.
+
+1. **Manufacturer/Brand** entity to leverage real world assets tokenization.
+
+NFTs with high level features that agree on a unique standard enables interactivity and portability of complex classes of NFTs throughout the entire Web3 ecosystem. It is important to notice that **the Standard puts no limit on customization**
 
 ## Abstract
 
-The standard establishes base classes that supports and require some specific metadata and media assets. **Allowing the entire ecosystem to interconnect without the need to always be concerned about exotic attributes that each collection of NFTs may display.** Developers would already know how to explore those features when creating dApps and creators would always enforce those attributes when listing new Assets. Aiming for the tokeninzation of real world assets, this protocol deliver mechanisms that **guarantee the brand authenticity of every asset**.
+The standard establishes base classes (e.g. vehicle, antique, real state) that supports and require some specific metadata and media assets. **Allowing the entire ecosystem to interconnect without the need to always be concerned about exotic attributes that each collection of NFTs may display.**
+
+Developers would already know how to explore those features when creating dApps and creators would always enforce those attributes when listing new Assets. Aiming for the tokeninzation of real world assets, this protocol deliver mechanisms that **guarantee provenance of every asset**.
 
 ## Motivation
 
