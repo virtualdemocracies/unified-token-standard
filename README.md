@@ -18,7 +18,7 @@ The main contributions are:
 
 ## Abstract
 
-The standard establishes base classes (e.g. vehicle, antique, real state) that supports and require some specific metadata and media assets. **Allowing the entire ecosystem to interconnect without the need to always be concerned about exotic attributes that each collection of NFTs may display.**
+The standard establishes base classes (e.g. vehicle, antique, real state) that supports and require some specific metadata and media assets. **Allowing the entire ecosystem to interconnect without the need to always be concerned about arbitrary attributes that each collection of NFTs may display.**
 
 Developers would already know how to explore those features when creating dApps and creators would always enforce those attributes when listing new Assets. Aiming for the tokeninzation of real world assets, this protocol deliver mechanisms that **guarantee provenance of every asset**.
 
