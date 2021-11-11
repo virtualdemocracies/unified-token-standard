@@ -8,7 +8,7 @@
 
 A standard that extends the basic attributes from the existing low level NFT protocols ([ERC-721](https://eips.ethereum.org/EIPS/eip-721)/[ERC-1155](https://eips.ethereum.org/EIPS/eip-1155)).
 
-Basically NFTs with high level features that agree on a unique standard enables interactivity and portability of complex classes of NFTs throughout the entire Web3 ecosystem. It is important to notice that **the Standard puts no limit on customization**
+NFTs with high level features, beyond the basic ones, that agree on a single standard enable complex interactions and portability throughout the entire Web3 ecosystem far beyond simple asset and attribute display. It is important to notice that **the Standard puts no limit on customization**
 
 The main contributions are:
 
